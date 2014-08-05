@@ -5,3 +5,4 @@
 ####[Web技术教程](http://www.w3school.com.cn/)
 ####[知道创宇研发技能表v2.2](http://blog.knownsec.com/Knownsec_RD_Checklist/v2.2.html#)
 ####[四轴飞行器](http://www.wellmakers.com/category/4axis/)
+####[正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
