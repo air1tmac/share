@@ -5,3 +5,4 @@
 ####[《名侦探柯南》必看集数推荐](http://news.missevan.cn/news/article?newsid=18843)
 ####[《名侦探柯南》TV版](http://www.acfun.tv/v/ac875232)
 ####[情色网站的另一面：请尊重你不懂的领域](http://tech2ipo.com/59723?utm_source=startup&utm_medium=startup_AD&utm_campaign=startup)
+####[欧拉计划](http://projecteuler.net/)
