@@ -6,3 +6,4 @@
 ####[《名侦探柯南》TV版](http://www.acfun.tv/v/ac875232)
 ####[情色网站的另一面：请尊重你不懂的领域](http://tech2ipo.com/59723?utm_source=startup&utm_medium=startup_AD&utm_campaign=startup)
 ####[欧拉计划](http://projecteuler.net/)
+####[谈谈“编程游戏”](http://www.an-dong.info/%E8%B0%88%E8%B0%88%E7%BC%96%E7%A8%8B%E6%B8%B8%E6%88%8F/)
