@@ -7,3 +7,4 @@
 ####[四轴飞行器](http://www.wellmakers.com/category/4axis/)
 ####[正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 ####[在线编译器codepad](http://codepad.org/)
+####[算法可视化](http://bindog.github.io/%E7%90%86%E8%AE%BA/2014/08/09/visualizing-algorithms/)
