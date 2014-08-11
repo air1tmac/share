@@ -9,3 +9,4 @@
 ####[在线编译器codepad](http://codepad.org/)
 ####[算法可视化](http://bindog.github.io/%E7%90%86%E8%AE%BA/2014/08/09/visualizing-algorithms/)
 ####[科学上网之红杏插件的原理与破解](http://bindog.github.io/%E5%B7%A5%E7%A8%8B/2014/07/03/analysis-and-hack-of-hongxin/)
+####[字符编码常识及常见问题解析](http://mp.weixin.qq.com/s?__biz=MzA5MTY2NTcwNw==&mid=201226425&idx=1&sn=5a9846e6cc18012ef5b1f5216c2addbd#rd)
