@@ -12,3 +12,4 @@
 ####[字符编码常识及常见问题解析](http://mp.weixin.qq.com/s?__biz=MzA5MTY2NTcwNw==&mid=201226425&idx=1&sn=5a9846e6cc18012ef5b1f5216c2addbd#rd)
 ####[红杏插件破解第二弹](http://bindog.github.io/%E5%B7%A5%E7%A8%8B/2014/08/17/hack-hongxing-2nd/)
 ####[IT面试题](http://itjob.io/)
+####[程序员排行](http://index.mvmap.com/)
