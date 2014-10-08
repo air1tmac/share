@@ -13,3 +13,4 @@
 ####[红杏插件破解第二弹](http://bindog.github.io/%E5%B7%A5%E7%A8%8B/2014/08/17/hack-hongxing-2nd/)
 ####[IT面试题](http://itjob.io/)
 ####[程序员排行](http://index.mvmap.com/)
+####[深入浅出PageRank算法](http://segmentfault.com/blog/hujiaweibujidao/1190000000711128)
