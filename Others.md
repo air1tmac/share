@@ -15,3 +15,5 @@
 ####[程序员排行](http://index.mvmap.com/)
 ####[深入浅出PageRank算法](http://segmentfault.com/blog/hujiaweibujidao/1190000000711128)
 ####[Leetcode 编程训练](http://coolshell.cn/articles/12052.html)
+####[与Scheme共舞](http://blog.csdn.net/g9yuayon/article/details/1676688)
+####[λ演算](http://zh.wikipedia.org/wiki/%CE%9B%E6%BC%94%E7%AE%97)
