@@ -18,3 +18,4 @@
 ####[与Scheme共舞](http://blog.csdn.net/g9yuayon/article/details/1676688)
 ####[λ演算](http://zh.wikipedia.org/wiki/%CE%9B%E6%BC%94%E7%AE%97)
 ####[IT笔试/面试题库](http://www.nowcoder.com/)
+####[初探验证码识别](http://drops.wooyun.org/tips/4550)
