@@ -10,3 +10,4 @@
 ####[Notpron](http://notpron.org/notpron/)
 ####[Linus，一生只为寻找欢笑](http://www.ituring.com.cn/tupubarticle/2796)
 ####[GUI Gallery](http://toastytech.com/guis/index.html)
+####[魔兽争霸3技术分析资源汇总](http://jjyy.guru/war3-tech/#)
